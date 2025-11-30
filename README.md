@@ -25,6 +25,12 @@ LunarCAD 2.0 continues the Lunarcad journey:
 LunarCAD will continue to grow, and hopefully one day it will become one of the flagship events ever known by **IEEE** and the **College of Engineering Chengannur**.
 
 ---
+## 📞 Contact
+
+Connect with me on LinkedIn:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nithin-mathew-joji-591a86202/)
+
+---
 
 
 ## 📜 License
