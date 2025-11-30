@@ -30,5 +30,5 @@ LunaRduiNO is a hands-on learning initiative that extends the classic Arduino Un
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nithinmathewjoji/LunaRduiNO.git
+   git clone https://github.com/nithinmathewjoji/LunarCAD_2.0.git
 
