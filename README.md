@@ -4,7 +4,7 @@
 
 ## 📂 Repository Structure
 
-- [KICAD_Files](./KICAD_Files)  
+- [KICAD_Files](https://github.com/nithinmathewjoji/LunarCAD_2.0/tree/master/KiCAD_Files)  
   KiCad project files for PCB design and electronics schematics.
 
 - [LunarCAD_PPT](./LunarCAD_PPT)  
