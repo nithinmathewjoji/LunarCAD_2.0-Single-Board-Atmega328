@@ -9,7 +9,7 @@ Successor to Lunarcad — a collaborative space to design, learn, and build proj
 
 You can view the project presentation here:
 
-- [Download PPTX](./LunarCAD_PPT/LunarCAD_2.0_Presentation.pptx)  
+- [Download PPTX](LunarCAD_PPT/LUNARCAD 2.0.pptx)  
 
 
 
