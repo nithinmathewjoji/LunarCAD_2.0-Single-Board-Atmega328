@@ -21,7 +21,7 @@ LunaRduiNO is a hands-on learning initiative that extends the classic Arduino Un
 
 - `schematics/` → KiCad schematic files  
 - `pcb_layout/` → PCB design files  
-- `LunaRduiNO.kicad_pro` → Main KiCad project file  download the .zip file and use it on kicad all files are inside it for youe recreation 
+- `LunarCAD ATMEGA328.kicad_pro` → Main KiCad project file  download the .zip file and use it on kicad all files are inside it for youe recreation 
 - `docs/` → Supporting notes, diagrams, and teaching materials  
 
 ---
